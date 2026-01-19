@@ -72,9 +72,11 @@ The `/stock NVDA` command returns:
 ### 1) Clone the repository
 git clone https://github.com/<your-username>/telegram-stock-analysis-bot.git
 cd telegram-stock-analysis-bot
+
 2) Install dependencies
 python -m pip install -r requirements.txt
-3) Create .env file
+
+4) Create .env file
 Create a .env file in the project root:
 
 BOT_TOKEN=YOUR_TELEGRAM_BOT_TOKEN
